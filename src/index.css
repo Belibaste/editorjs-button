@@ -57,9 +57,9 @@
     text-align: center;
 }
 
-
-
-.btn{}
+.btn{
+    background-color: red;
+}
 
 .btn--default{
     color: #fff;
