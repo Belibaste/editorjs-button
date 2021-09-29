@@ -126,7 +126,7 @@ export default class AnyButton {
             inputLink: "anyButtonContainer__input--link",
             registButton: "anyButtonContainer__registerButton",
             anyButtonHolder: "anyButtonContainer__anyButtonHolder",
-            btnColor: "btn--default",
+            btnColor: "btn-primary",
             toggleSwitch: "toggle-switch",
             toggleInput: "toggle-input",
             toggleLabel: "toggle-label",
