@@ -183,6 +183,7 @@ export default class AnyButton {
 
         this.nodes.registButton = this.make('button',[this.api.styles.button, this.CSS.registButton]);
         this.nodes.registButton.textContent = this.api.i18n.t('Set');
+        this.nodes.registButton.type = 'button';
 
 
         this.nodes.registButton.addEventListener('click', (event) => {
